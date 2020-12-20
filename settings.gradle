@@ -1,0 +1,2 @@
+rootProject.name='Androider'
+include ':app'

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:id="@+id/id_newsIt" android:title="@string/favorite" android:icon="@mipmap/ic_favorite_icon_foreground"/>
+    <item android:title="@string/java" android:id="@+id/id_java" android:icon="@mipmap/ic_java_icon_foreground"/>
+    <item android:title="@string/android" android:id="@+id/id_android" android:icon="@mipmap/ic_android_icon_foreground"/>
+
+    <!--<item android:title="@string/java1">
+        <menu>
+            <item android:title="@string/java2" android:id="@+id/id_java2"/>
+            <item android:title="@string/java3" android:id="@+id/id_java3"/>
+            <item android:title="@string/java4" android:id="@+id/id_java4"/>
+        </menu>
+    </item>-->
+
+</menu>

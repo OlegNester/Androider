@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Androider</string>
+    <string name="font_text">Rubik-Black.ttf</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="java">Java</string>
+    <string name="android">Android</string>
+
+</resources>
